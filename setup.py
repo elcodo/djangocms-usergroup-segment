@@ -22,7 +22,7 @@ CLASSIFIERS = [
 ]
 
 setup(
-    name='aldryn-country-segment',
+    name='djangocms-usergroup-segment',
     version=__version__,
     description='Django CMS and aldryn-segmentation segment by user group plugin',
     author='ELCODO',
